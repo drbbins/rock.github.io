@@ -1,0 +1,10 @@
+Mi plan Rock al Parque 2026 - versión instalable sin señal
+
+1. Sube esta carpeta completa a cualquier hosting con HTTPS
+   (por ejemplo GitHub Pages, Netlify o una carpeta en tu servidor).
+2. Abre la dirección en Safari en el iPhone, con señal.
+3. Toca Compartir > Agregar a pantalla de inicio.
+4. Ábrela una vez desde el ícono con señal. Desde ahí funciona sin internet.
+
+Esta versión guarda todo en el teléfono. Para pasar datos entre esta
+versión y la de Claude usa Ajustes > Copiar respaldo / Cargar respaldo.
